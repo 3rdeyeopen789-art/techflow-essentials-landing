@@ -1,5 +1,4 @@
-import { useAuth } from "@/_core/hooks/useAuth";
-import { trpc } from "@/lib/trpc";
+// Auth and tRPC removed for static deployment
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { CheckCircle2, Download, Sparkles, Star, Shield, Clock, Zap, TrendingUp, X } from "lucide-react";
